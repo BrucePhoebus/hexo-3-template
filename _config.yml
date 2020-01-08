@@ -99,5 +99,5 @@ theme: 3-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:BrucePhoebus/BrucePhoebus.github.io.git
+  repo: git@github.com:BrucePhoebus/hexo-3-template.git
   branch: master
